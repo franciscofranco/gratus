@@ -211,6 +211,24 @@ body {
 	color: #b2b2b2;
 }
 
+.privacy_msg {
+    margin-top: 24px;
+    width: 520px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    font-family: 'PT Sans', sans-serif;
+}
+
+@media only screen and (max-width: 647px) {
+    .privacy_msg {
+        width:480px;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center
+    }
+}
+
 .tagline {
     margin-top: 24px;
     width: 260px;
