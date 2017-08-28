@@ -761,3 +761,11 @@ body {
 img.phone {
 	width: 175%;
 }
+
+img.screenshots {
+    width: 320px;
+}
+
+img.screenshots_small {
+    width: 165px;
+}
