@@ -141,8 +141,8 @@ body {
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
     margin: 64px;
-    width: 520px;
-    height: 520px;
+    width: 50%;
+    height: 50%;
     position: relative
 }
 
@@ -231,7 +231,7 @@ body {
 
 .tagline {
     margin-top: 24px;
-    width: 260px;
+    width: auto;
     font-weight: 400;
     font-size: 20px;
     line-height: 24px;
@@ -759,7 +759,7 @@ body {
 }
 
 img.phone {
-	width: 175%;
+	width: 25%;
 }
 
 img.screenshots {
